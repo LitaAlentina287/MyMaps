@@ -169,6 +169,8 @@ FLUTTER_MAP_APP/
 4. Jalankan Aplikasi
    flutter run
 
+---
+
 **Lita Alentina  
 NIM: 23552011097  
 Project tugas UTS mata kuliah Pemrograman Mobile 2**
