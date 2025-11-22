@@ -5,7 +5,7 @@ MyMaps adalah aplikasi peta interaktif berbasis Flutter yang dibuat sebagai proy
 Aplikasi ini memanfaatkan package flutter_map dengan data koordinat dari OpenStreetMap, 
 dilengkapi fitur navigasi antar halaman, daftar informasi, serta halaman About.
 
-🚀 Fitur Utama
+Fitur Utama
 --------------
 
 - **Splash Screen**  
@@ -29,7 +29,7 @@ dilengkapi fitur navigasi antar halaman, daftar informasi, serta halaman About.
   Navigasi cepat antara halaman Map, List, dan About.
 
 
-🛠️ Teknologi yang Digunakan
+Teknologi yang Digunakan
 ---------------------------
 
 - Flutter 3.x
@@ -39,7 +39,7 @@ dilengkapi fitur navigasi antar halaman, daftar informasi, serta halaman About.
 - Material Design UI
 
 
-📂 Struktur Project
+Struktur Project
 -------------------
 
 MyMaps/  
@@ -60,13 +60,6 @@ MyMaps/
 │── pubspec.yaml  
 
 
-📸 Screenshot
--------------
-
-## 📸 Screenshots
-
-## 📸 Screenshots
-
 | Splash Screen | Login Page | Register Page |
 |--------------|------------|---------------|
 | ![](assets/screenshots/Screenshot1.png) | ![](assets/screenshots/Screenshot6.png) | ![](assets/screenshots/Screenshot2.png) |
@@ -81,7 +74,7 @@ Contoh:
 - Halaman Map
 - Halaman About
 
-▶️ Cara Menjalankan Project
+Cara Menjalankan Project
 1. Clone Repository
    git clone https://github.com/LitaAlentina287/MyMaps.git
 
@@ -94,10 +87,8 @@ Contoh:
 4. Jalankan Aplikasi
    flutter run
 
-👨‍💻 Developer
+Developer
 Lita Alentina  
 NIM: 23552011097  
-Project tugas mata kuliah Pemrograman Mobile / Flutter.
+Project tugas UTS mata kuliah Pemrograman Mobile 2
 
-📄 Lisensi
-Project ini dibuat untuk keperluan pembelajaran dan tugas kuliah.
