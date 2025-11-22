@@ -158,16 +158,16 @@ FLUTTER_MAP_APP/
 
 ## Cara Menjalankan Project
 1. Clone Repository
-   git clone https://github.com/LitaAlentina287/MyMaps.git
+   - git clone https://github.com/LitaAlentina287/MyMaps.git
 
 2. Masuk ke Folder Project
-   cd MyMaps
+   - cd MyMaps
 
 3. Install Dependencies
-   flutter pub get
+   - flutter pub get
 
 4. Jalankan Aplikasi
-   flutter run
+   - flutter run
 
 ---
 
