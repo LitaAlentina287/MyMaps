@@ -42,22 +42,45 @@ Teknologi yang Digunakan
 Struktur Project
 -------------------
 
-MyMaps/  
-│── lib/  
-│   ├── pages/  
-│   │   ├── splash_screen.dart  
-│   │   ├── login_page.dart  
-│   │   ├── register_page.dart  
-│   │   ├── map_page.dart  
-│   │   ├── list_page.dart  
-│   │   └── about_page.dart  
-│   └── main.dart  
-│  
-│── assets/  
-│── android/  
-│── ios/  
-│── web/  
-│── pubspec.yaml  
+FLUTTER_MAP_APP/
+│
+├── assets/
+│   ├── screenshots/
+│   │   ├── Screenshot1.png
+│   │   ├── Screenshot2.png
+│   │   ├── Screenshot3.png
+│   │   ├── Screenshot4.png
+│   │   ├── Screenshot5.png
+│   │   └── Screenshot6.png
+│
+├── lib/
+│   ├── data/
+│   │   └── user_data.dart
+│   │
+│   ├── pages/
+│   │   ├── about_page.dart
+│   │   ├── home_page.dart
+│   │   ├── list_page.dart
+│   │   ├── login_page.dart
+│   │   ├── map_page.dart
+│   │   ├── register_page.dart
+│   │   ├── splash_screen.dart
+│   │
+│   ├── widgets/
+│   │   └── bottom_nav.dart
+│   │
+│   └── main.dart
+│
+├── android/
+├── ios/
+├── web/
+├── linux/
+├── macos/
+├── windows/
+│
+├── pubspec.yaml
+└── .gitignore
+
 
 ---
 
