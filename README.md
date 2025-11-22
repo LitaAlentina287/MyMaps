@@ -56,7 +56,7 @@ FLUTTER_MAP_APP/
 ├── lib/
 │   ├── data/
 │   │   └── user_data.dart
-│   │
+│
 │   ├── pages/
 │   │   ├── about_page.dart
 │   │   ├── home_page.dart
@@ -65,10 +65,10 @@ FLUTTER_MAP_APP/
 │   │   ├── map_page.dart
 │   │   ├── register_page.dart
 │   │   └── splash_screen.dart
-│   │
+│
 │   ├── widgets/
 │   │   └── bottom_nav.dart
-│   │
+│
 │   └── main.dart
 │
 ├── android/
@@ -81,31 +81,32 @@ FLUTTER_MAP_APP/
 ├── pubspec.yaml
 └── .gitignore
 
+
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-| Splash Screen |
+| **Splash Screen** |
 |--------------|
 | ![](assets/screenshots/Screenshot1.png) |
 
-| Login Page |
+| **Login Page** |
 |--------------|
 | ![](assets/screenshots/Screenshot6.png) |
 
-| Register Page |
+| **Register Page** |
 |--------------|
 | ![](assets/screenshots/Screenshot2.png) |
 
-| Home Map |
+| ** Home Map** |
 |--------------|
 | ![](assets/screenshots/Screenshot3.png) |
 
-| List Page |
+| **List Page** |
 |--------------|
 | ![](assets/screenshots/Screenshot4.png) |
 
-| About Page |
+| **About Page** |
 |--------------|
 | ![](assets/screenshots/Screenshot5.png) |
 
