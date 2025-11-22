@@ -41,19 +41,67 @@ Teknologi yang Digunakan
 
 Struktur Project
 -------------------
+🌍 MyMaps — Flutter Map Application
+==================================
 
+MyMaps adalah aplikasi peta interaktif berbasis Flutter yang dibuat sebagai proyek pembelajaran.  
+Aplikasi ini memanfaatkan package **flutter_map** dengan data koordinat dari **OpenStreetMap**,  
+serta dilengkapi fitur navigasi antar halaman, daftar informasi, dan halaman About.
+
+---
+
+## ✨ Fitur Utama
+
+- **Splash Screen**  
+  Menampilkan logo aplikasi sebelum masuk ke halaman utama.
+
+- **Halaman Login & Register**  
+  Autentikasi sederhana.  
+  - Login Page → masuk ke aplikasi  
+  - Register Page → membuat akun baru  
+
+- **Interactive Map (Flutter Map)**  
+  Menampilkan peta OpenStreetMap dengan marker tertentu.
+
+- **List Informasi Penting**  
+  Menampilkan daftar item informasi.
+
+- **About Page**  
+  Berisi informasi aplikasi, versi, dan developer.
+
+- **Bottom Navigation Bar**  
+  Navigasi cepat antara Map, List, dan About.
+
+---
+
+## 🛠 Teknologi yang Digunakan
+
+- Flutter 3.x
+- Dart
+- flutter_map (OpenStreetMap)
+- latlong2
+- Material Design UI
+
+---
+
+## Struktur Project
+
+```txt
 FLUTTER_MAP_APP/
+│
 ├── assets/
-│   └── screenshots/
-│       ├── Screenshot1.png
-│       ├── Screenshot2.png
-│       ├── Screenshot3.png
-│       ├── Screenshot4.png
-│       ├── Screenshot5.png
-│       └── Screenshot6.png
+│   ├── screenshots/
+│   │   ├── Screenshot1.png
+│   │   ├── Screenshot2.png
+│   │   ├── Screenshot3.png
+│   │   ├── Screenshot4.png
+│   │   ├── Screenshot5.png
+│   │   └── Screenshot6.png
+│
 ├── lib/
 │   ├── data/
 │   │   └── user_data.dart
+│
 │   ├── pages/
 │   │   ├── about_page.dart
 │   │   ├── home_page.dart
@@ -62,19 +110,23 @@ FLUTTER_MAP_APP/
 │   │   ├── map_page.dart
 │   │   ├── register_page.dart
 │   │   └── splash_screen.dart
+│
 │   ├── widgets/
 │   │   └── bottom_nav.dart
+│
 │   └── main.dart
+│
 ├── android/
 ├── ios/
 ├── web/
 ├── linux/
 ├── macos/
 ├── windows/
+│
 ├── pubspec.yaml
 └── .gitignore
 
----
+ ---
 
 ## Screenshots
 
