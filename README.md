@@ -125,7 +125,7 @@ FLUTTER_MAP_APP/
 │
 ├── pubspec.yaml
 └── .gitignore
-```md
+```
 
 ---
 
