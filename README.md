@@ -1,64 +1,79 @@
 🌍 MyMaps — Flutter Map Application
+==================================
 
 MyMaps adalah aplikasi peta interaktif berbasis Flutter yang dibuat sebagai proyek pembelajaran.
 Aplikasi ini memanfaatkan package flutter_map dengan data koordinat dari OpenStreetMap, 
 dilengkapi fitur navigasi antar halaman, daftar informasi, serta halaman About.
 
 🚀 Fitur Utama
-- Splash Screen
+--------------
+
+- **Splash Screen**  
   Menampilkan logo aplikasi sebelum masuk ke halaman utama.
 
-- Halaman Login & Register
-  Autentikasi sederhana menggunakan UI modern.
+- **Halaman Login & Register**  
+  Mendukung proses autentikasi sederhana.  
+  - Login Page: untuk masuk ke aplikasi  
+  - Register Page: untuk mendaftarkan akun baru  
 
-- Interactive Map (Flutter Map)
-  Menampilkan peta dengan marker dan koordinat tertentu.
+- **Interactive Map (Flutter Map)**  
+  Menampilkan peta menggunakan OpenStreetMap dengan marker pada koordinat tertentu.
 
-- List Informasi Penting
-  Berisi beberapa item informasi yang dapat dilihat pengguna.
+- **List Informasi Penting**  
+  Daftar item informasi yang dapat dilihat oleh pengguna.
 
-- About Page
-  Memuat informasi aplikasi, versi, dan developer.
+- **About Page**  
+  Menampilkan informasi aplikasi, versi, dan developer.
 
-- Bottom Navigation Bar
-  Navigasi mudah antara Map, List, dan About.
+- **Bottom Navigation Bar**  
+  Navigasi cepat antara halaman Map, List, dan About.
+
 
 🛠️ Teknologi yang Digunakan
+---------------------------
+
 - Flutter 3.x
 - Dart
 - flutter_map (OpenStreetMap)
 - latlong2
 - Material Design UI
 
-📂 Struktur Project
-MyMaps/
-│── lib/
-│   ├── pages/
-│   │   ├── splash_screen.dart
-│   │   ├── login_page.dart
-│   │   ├── register_page.dart
-│   │   ├── map_page.dart
-│   │   ├── list_page.dart
-│   │   └── about_page.dart
-│   └── main.dart
-│
-│── assets/
-│── android/
-│── ios/
-│── web/
-│── pubspec.yaml
 
-📸 Screenshot 
+📂 Struktur Project
+-------------------
+
+MyMaps/  
+│── lib/  
+│   ├── pages/  
+│   │   ├── splash_screen.dart  
+│   │   ├── login_page.dart  
+│   │   ├── register_page.dart  
+│   │   ├── map_page.dart  
+│   │   ├── list_page.dart  
+│   │   └── about_page.dart  
+│   └── main.dart  
+│  
+│── assets/  
+│── android/  
+│── ios/  
+│── web/  
+│── pubspec.yaml  
+
+
+📸 Screenshot
+-------------
+
 ## 📸 Screenshots
 
-| Splash Screen | Login Page | Home Map |
-|--------------|------------|----------|
-| ![](assets/screenshots/Screenshot1.png) | ![](assets/screenshots/Screenshot2.png) | ![](assets/screenshots/Screenshot3.png) |
+## 📸 Screenshots
 
-| List Page | About Page |
-|-----------|------------|
-| ![](assets/screenshots/Screenshot4.png) | ![](assets/screenshots/Screenshot5.png) |
+| Splash Screen | Login Page | Register Page |
+|--------------|------------|---------------|
+| ![](assets/screenshots/Screenshot1.png) | ![](assets/screenshots/Screenshot6.png) | ![](assets/screenshots/Screenshot2.png) |
 
+| Home Map | List Page | About Page |
+|----------|-----------|-------------|
+| ![](assets/screenshots/Screenshot3.png) | ![](assets/screenshots/Screenshot4.png) | ![](assets/screenshots/Screenshot5.png) |
 
 Contoh:
 - Splash Screen
