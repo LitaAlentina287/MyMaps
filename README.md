@@ -1,49 +1,6 @@
 🌍 MyMaps — Flutter Map Application
 ==================================
 
-MyMaps adalah aplikasi peta interaktif berbasis Flutter yang dibuat sebagai proyek pembelajaran.
-Aplikasi ini memanfaatkan package flutter_map dengan data koordinat dari OpenStreetMap, 
-dilengkapi fitur navigasi antar halaman, daftar informasi, serta halaman About.
-
-Fitur Utama
---------------
-
-- **Splash Screen**  
-  Menampilkan logo aplikasi sebelum masuk ke halaman utama.
-
-- **Halaman Login & Register**  
-  Mendukung proses autentikasi sederhana.  
-  - Login Page: untuk masuk ke aplikasi  
-  - Register Page: untuk mendaftarkan akun baru  
-
-- **Interactive Map (Flutter Map)**  
-  Menampilkan peta menggunakan OpenStreetMap dengan marker pada koordinat tertentu.
-
-- **List Informasi Penting**  
-  Daftar item informasi yang dapat dilihat oleh pengguna.
-
-- **About Page**  
-  Menampilkan informasi aplikasi, versi, dan developer.
-
-- **Bottom Navigation Bar**  
-  Navigasi cepat antara halaman Map, List, dan About.
-
-
-Teknologi yang Digunakan
----------------------------
-
-- Flutter 3.x
-- Dart
-- flutter_map (OpenStreetMap)
-- latlong2
-- Material Design UI
-
-
-Struktur Project
--------------------
-🌍 MyMaps — Flutter Map Application
-==================================
-
 MyMaps adalah aplikasi peta interaktif berbasis Flutter yang dibuat sebagai proyek pembelajaran.  
 Aplikasi ini memanfaatkan package **flutter_map** dengan data koordinat dari **OpenStreetMap**,  
 serta dilengkapi fitur navigasi antar halaman, daftar informasi, dan halaman About.
