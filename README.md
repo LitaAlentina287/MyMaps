@@ -43,7 +43,6 @@ Struktur Project
 -------------------
 
 FLUTTER_MAP_APP/
-│
 ├── assets/
 │   └── screenshots/
 │       ├── Screenshot1.png
@@ -52,11 +51,9 @@ FLUTTER_MAP_APP/
 │       ├── Screenshot4.png
 │       ├── Screenshot5.png
 │       └── Screenshot6.png
-│
 ├── lib/
 │   ├── data/
 │   │   └── user_data.dart
-│
 │   ├── pages/
 │   │   ├── about_page.dart
 │   │   ├── home_page.dart
@@ -65,23 +62,19 @@ FLUTTER_MAP_APP/
 │   │   ├── map_page.dart
 │   │   ├── register_page.dart
 │   │   └── splash_screen.dart
-│
 │   ├── widgets/
 │   │   └── bottom_nav.dart
-│
 │   └── main.dart
-│
 ├── android/
 ├── ios/
 ├── web/
 ├── linux/
 ├── macos/
 ├── windows/
-│
 ├── pubspec.yaml
 └── .gitignore
 
-
+---
 
 ## Screenshots
 
