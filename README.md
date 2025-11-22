@@ -59,22 +59,30 @@ MyMaps/
 │── web/  
 │── pubspec.yaml  
 
+---
 
-| Splash Screen | Register Page |
-|--------------|------------|---------------|
+## 📸 Screenshots
+
+| Splash Screen |
+|--------------|
 | ![](assets/screenshots/Screenshot1.png) |
+
 | Login Page |
 |--------------|
-| ![](assets/screenshots/Screenshot6.png) | 
+| ![](assets/screenshots/Screenshot6.png) |
+
 | Register Page |
 |--------------|
 | ![](assets/screenshots/Screenshot2.png) |
-| Home Map | 
-|----------|
+
+| Home Map |
+|--------------|
 | ![](assets/screenshots/Screenshot3.png) |
+
 | List Page |
 |--------------|
 | ![](assets/screenshots/Screenshot4.png) |
+
 | About Page |
 |--------------|
 | ![](assets/screenshots/Screenshot5.png) |
