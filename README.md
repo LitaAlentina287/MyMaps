@@ -155,13 +155,8 @@ FLUTTER_MAP_APP/
 |--------------|
 | ![](assets/screenshots/Screenshot5.png) |
 
-Contoh:
-- Splash Screen
-- Halaman Login
-- Halaman Map
-- Halaman About
 
-Cara Menjalankan Project
+## Cara Menjalankan Project
 1. Clone Repository
    git clone https://github.com/LitaAlentina287/MyMaps.git
 
@@ -174,8 +169,7 @@ Cara Menjalankan Project
 4. Jalankan Aplikasi
    flutter run
 
-Developer
-Lita Alentina  
+**Lita Alentina  
 NIM: 23552011097  
-Project tugas UTS mata kuliah Pemrograman Mobile 2
+Project tugas UTS mata kuliah Pemrograman Mobile 2**
 
