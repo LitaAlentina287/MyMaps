@@ -100,7 +100,7 @@ FLUTTER_MAP_APP/
 |--------------|
 | ![](assets/screenshots/Screenshot2.png) |
 
-| ** Home Map** |
+| **Home Map** |
 |--------------|
 | ![](assets/screenshots/Screenshot3.png) |
 
