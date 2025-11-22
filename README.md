@@ -173,5 +173,5 @@ FLUTTER_MAP_APP/
 
 **Lita Alentina  
 NIM: 23552011097  
-Project tugas UTS mata kuliah Pemrograman Mobile 2**
+Project UTS mata kuliah Pemrograman Mobile 2**
 
